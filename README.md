@@ -60,7 +60,9 @@ contract MyToken {
 In order to compile the code, you should select the "Solidity Compiler" tab located on the left-hand sidebar. Ensure that the "Compiler" setting is selected as "0.8.0" (or a compatible version) before clicking on the "Compile MYToken.sol" button.
 After compiling the code, you have the option to deploy the contract by selecting the "Deploy & Run Transactions" tab from the sidebar on the left. Choose the "MYToken" contract from the drop-down list, and proceed by clicking on the "Deploy" button.
 After the contract has been implemented, you have the ability to engage with it. Select the "MYToken" contract on the left sidebar, then view the token Abbrev, tokenName, and total supply by clicking on them. When you input the address and token value and click on mint, the mint function will be triggered, and the same applies for burn.
+
 AUTHOR :
 @LAKSHIT MALHOTRA
+
 LICENSE
 THIS IS UNDER MIT LICENSE
